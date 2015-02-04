@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>431ACD56-6C42-49D8-A36D-6812949BCF37</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HooThere</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4580DBA6BB9452BCC5416DF7C915405E09AB7E2</key>
+		<string>github.com:tarunkohli/hoothere.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HooThere.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4580DBA6BB9452BCC5416DF7C915405E09AB7E2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:tarunkohli/hoothere.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4580DBA6BB9452BCC5416DF7C915405E09AB7E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4580DBA6BB9452BCC5416DF7C915405E09AB7E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4580DBA6BB9452BCC5416DF7C915405E09AB7E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HooThere</string>
+		</dict>
+	</array>
+</dict>
+</plist>
